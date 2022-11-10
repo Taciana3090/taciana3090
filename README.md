@@ -1,5 +1,5 @@
 # Olá pessoal, me chamo Taciana Vasconcelos!
-## Bem vindo ao meu perfil GitHub 👋
+## Bem vindes ao meu perfil GitHub 👋
 
 <!--
 **Taciana3090/taciana3090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
