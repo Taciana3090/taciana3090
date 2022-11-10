@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 😄 Curiosidade: Amo viajar, conhecer novos lugares - principalmente os menos expolorados -  e culturas | Praticar trekking | LER | Cozinhar
 
 
+### Ferramentas e Tecnologias
 
 
 
