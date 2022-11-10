@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓💻 Estudante de Gestão em Tecnologia da Informação pela Universidade Estácio de Sá e Bacharelado em Sistemas de Informação pela UFRPE
+- 🎓💻 Estudante de Gestão em Tecnologia da Informação pela Universidade Estácio de Sá e Bacharelado em Sistemas de Informação pela UFRPE
 
-👩‍🎓👩‍💻 Atualmente estou aprendendo SQL | R | Python | Pandas | Numpy | Scikit-learn | Matplotlib | Searbon | Inglês
+- 👩‍🎓👩‍💻 Atualmente estou aprendendo SQL | R | Python | Pandas | Numpy | Scikit-learn | Matplotlib | Searbon | Inglês
+
+- ℹ️📈 Estou procurando aprender/colaborar em transformar dados em informações e informações em insights.
+
+- 😄 Curiosidade: Amo viajar, conhecer novos lugares - principalmente os menos expolorados -  e culturas | Praticar trekking | LER | Cozinhar
+
+
+
 
 
 
