@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taciana3090&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+### Contatos
 
+<div>
+<a href="https://www.linkedin.com/in/taciana-vasconcelos-44a929217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-
+<div>
