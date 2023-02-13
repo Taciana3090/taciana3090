@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🎓💻 Estudante de Gestão em Tecnologia da Informação pela Universidade Estácio de Sá e Bacharelado em Sistemas de Informação pela UFRPE
+- 🎓💻 Graduada em Gestão em Tecnologia da Informação pela Universidade Estácio de Sá e Graduanda Bacharelado em Sistemas de Informação pela UFRPE
 
 - 👩‍🎓👩‍💻 Atualmente estou aprendendo SQL | R | Python | Pandas | Numpy | Scikit-learn | Matplotlib | Searbon | Inglês
 
