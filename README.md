@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 - 👩‍🎓👩‍💻 Atualmente estou aprendendo SQL | R | Python | Pandas | Numpy | Scikit-learn | Matplotlib | Searbon | Inglês
 
-- ℹ️📈 Estou procurando aprender/colaborar em transformar dados em informações e informações em insights.
+- ℹ️📈 Entusiasta de Data Science, sempre buscando desafios e aprendizados. Acredito na constante busca por melhoria.
 
-- 😄 Curiosidade: Amo viajar, conhecer novos lugares - principalmente os menos explorados -  e culturas | Praticar trekking | LER | Cozinhar
+- 😄 Curiosidade: Amo viajar, conhecer novos lugares - principalmente os menos explorados - e culturas | Praticar trekking | LER | Cozinhar
 
 
 ### Ferramentas e Tecnologias
