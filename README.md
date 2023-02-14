@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🎓💻 Graduada em Gestão em Tecnologia da Informação pela Universidade Estácio de Sá e Graduanda Bacharelado em Sistemas de Informação pela UFRPE
+- 🎓💻 Graduada em Gestão em Tecnologia da Informação pela Universidade Estácio de Sá e Graduanda no Bacharelado em Sistemas de Informação pela UFRPE
 
 - 👩‍🎓👩‍💻 Atualmente estou aprendendo SQL | R | Python | Pandas | Numpy | Scikit-learn | Matplotlib | Searbon | Inglês
 
 - ℹ️📈 Estou procurando aprender/colaborar em transformar dados em informações e informações em insights.
 
-- 😄 Curiosidade: Amo viajar, conhecer novos lugares - principalmente os menos expolorados -  e culturas | Praticar trekking | LER | Cozinhar
+- 😄 Curiosidade: Amo viajar, conhecer novos lugares - principalmente os menos explorados -  e culturas | Praticar trekking | LER | Cozinhar
 
 
 ### Ferramentas e Tecnologias
