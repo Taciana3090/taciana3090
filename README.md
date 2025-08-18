@@ -52,16 +52,8 @@
 ---
 
 ## 🌱 Atualmente estudando
-<div>
-  <img src="https://img.shields.io/badge/Agentes_de_IA-6A0DAD?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-FFA500?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Analytics-B22222?style=for-the-badge&logoColor=white"/>
-</div>
-
----
-
-## 📖 Publicações
-- **REESTRUTURAÇÃO ÉTICA NA MINERAÇÃO DE DADOS EDUCACIONAIS SUPERIORES: CONFORMIDADE COM A LEI GERAL DE PROTEÇÃO DE DADOS** – *Revista RedOC*, 2024. [DOI](https://doi.org/10.12957/redoc.2024.83226)
+- Agentes de Inteligência Artificial (IA)  
+- Avançando em NLP e modelagem preditiva  
 
 ---
 
@@ -89,3 +81,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
+---
+
+## 📖 Publicações
+- Tenho publicações acadêmicas. [Veja aqui](https://doi.org/10.12957/redoc.2024.83226)
