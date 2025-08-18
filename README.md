@@ -1,14 +1,21 @@
 # 👋 Olá! Eu sou Taciana Vasconcelos  
 
-💻 Apaixonada por **Data Science, Analytics e Tecnologia**, sempre buscando novos desafios e aprendizado.  
+💻 Apaixonada por **Data Science, Analytics e Tecnologia**, sempre buscando novos desafios e aprendizado.
+
+---
+
+## ℹ️ Sobre mim
+✨ Entusiasta de **Data Science** e melhoria contínua  
+🌍 Amo viajar e explorar lugares pouco conhecidos  
+🥾 Trekking, leitura e cozinha nas horas vagas  
 
 ---
 
 ## 🎓 Formação
-- **Sistemas de Informação** – UFRPE  
-- **Gestão de TI** – Estácio  
-- **Pós em Ciência de Dados & IA e Cloud Computing** – Anhanguera  
-- **MBA em Data Science, Analytics & BI (em andamento)** – Uninassau  
+🎓 **Sistemas de Informação** – UFRPE  
+🎓 **Gestão de TI** – Estácio  
+🎓 **Pós em Ciência de Dados & IA e Cloud Computing** – Anhanguera  
+🎓 **MBA em Data Science, Analytics & BI (em andamento)** – Uninassau  
 
 ---
 
@@ -52,15 +59,8 @@
 ---
 
 ## 🌱 Atualmente estudando
-- Agentes de Inteligência Artificial (IA)  
-- Avançando em NLP e modelagem preditiva  
-
----
-
-## ℹ️ Sobre mim
-- Entusiasta de **Data Science** e melhoria contínua  
-- Amo viajar e explorar lugares pouco conhecidos  
-- Trekking, leitura e cozinha nas horas vagas  
+💡 Agentes de Inteligência Artificial (IA)  
+💡 Avançando em NLP e modelagem preditiva  
 
 ---
 
@@ -75,14 +75,4 @@
 ## 📫 Contatos
 <div>
   <a href="https://www.linkedin.com/in/taciana-vasconcelos-44a929217" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> 
-  <a href="mailto:taciana3090@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
----
-
-## 📖 Publicações
-- Tenho publicações acadêmicas. [Veja aqui](https://doi.org/10.12957/redoc.2024.83226)
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?styl
