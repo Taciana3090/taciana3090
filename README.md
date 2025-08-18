@@ -1,11 +1,11 @@
 # 👋 Olá! Eu sou Taciana Vasconcelos  
 
-💻 Apaixonada por **Data Science, Analytics e Tecnologia**, sempre buscando novos desafios e aprendizado.
+💻 Apaixonada por **Data Science, Analytics e Tecnologia**, sempre em busca de novos desafios e aprendizado.
 
 ---
 
 ## ℹ️ Sobre mim
-✨ Entusiasta de **Data Science** e melhoria contínua  
+✨ **Entusiasta de Data Science e melhoria contínua**  
 🌍 Amo viajar e explorar lugares pouco conhecidos  
 🥾 Trekking, leitura e cozinha nas horas vagas  
 
@@ -37,7 +37,7 @@
 <div>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-1F1F1F?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-00BFFF?style=for-the-badge&logo=snowflake&logoColor=white"/>
 </div>
 
 ### 🛠️ BI / Engenharia de Dados
@@ -59,8 +59,9 @@
 ---
 
 ## 🌱 Atualmente estudando
-💡 Agentes de Inteligência Artificial (IA)  
-💡 Avançando em NLP e modelagem preditiva  
+💡 **Agentes de Inteligência Artificial (IA)**  
+💡 Avançando em **NLP** e modelagem preditiva  
+💡 Explorando novas ferramentas de **Analytics e BI**  
 
 ---
 
@@ -75,4 +76,14 @@
 ## 📫 Contatos
 <div>
   <a href="https://www.linkedin.com/in/taciana-vasconcelos-44a929217" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?styl
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
+  <a href="mailto:taciana3090@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 📖 Publicações
+📝 Tenho publicações acadêmicas. [Veja aqui](https://doi.org/10.12957/redoc.2024.83226)
