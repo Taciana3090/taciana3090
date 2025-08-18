@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/NLP-FFA500?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Modelagem_Preditiva-008080?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
-💡 Explorando novas ferramentas e técnicas para projetos reais e pesquisa acadêmica
+💡 Explorando novas ferramentas e técnicas para projetos e pesquisa acadêmica
 
 ---
 
