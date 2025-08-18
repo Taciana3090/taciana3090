@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🎓💻 Graduada em Gestão em Tecnologia da Informação pela Universidade Estácio de Sá e Graduanda no Bacharelado em Sistemas de Informação pela UFRPE
+## 🎓💻 Formação
+- **Sistemas de Informação** – UFRPE  
+- **Gestão de TI** – Estácio  
+- **Pós-graduação em Ciência de Dados & IA (2025) e Cloud Computing (2024)** – Anhanguera  
+- **MBA em Data Science, Analytics & BI (em andamento)** – Uninassau
+
 
 - 👩‍🎓👩‍💻 Atualmente estou aprendendo SQL | R | Python | Pandas | Numpy | Scikit-learn | Matplotlib | Searbon | Inglês
 
