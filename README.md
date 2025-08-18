@@ -1,11 +1,11 @@
 # 👋 Olá! Eu sou Taciana Vasconcelos  
 
-💻 Apaixonada por **Data Science, Analytics e Tecnologia**, sempre em busca de novos desafios e aprendizado.
+💻 Apaixonada por **Data Science, Analytics e Tecnologia**, sempre buscando novos desafios e aprendizado.
 
 ---
 
 ## ℹ️ Sobre mim
-✨ **Entusiasta de Data Science e melhoria contínua**  
+✨ Entusiasta de **Data Science** e melhoria contínua  
 🌍 Amo viajar e explorar lugares pouco conhecidos  
 🥾 Trekking, leitura e cozinha nas horas vagas  
 
@@ -58,18 +58,21 @@
 
 ---
 
-## 🌱 Atualmente estudando
-💡 **Agentes de Inteligência Artificial (IA)**  
-💡 Avançando em **NLP** e modelagem preditiva  
-💡 Explorando novas ferramentas de **Analytics e BI**  
-
----
-
 ## 🔧 GitHub Stats
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taciana3090&layout=compact&langs_count=7&theme=dracula"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Taciana3090&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+---
+
+## 🌱 Atualmente estudando
+<div>
+  <img src="https://img.shields.io/badge/Agentes_de_IA-6A0DAD?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-FFA500?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Modelagem_Preditiva-008080?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+💡 Explorando novas ferramentas e técnicas para projetos reais e pesquisa acadêmica
 
 ---
 
@@ -82,8 +85,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-
----
-
-## 📖 Publicações
-📝 Tenho publicações acadêmicas. [Veja aqui](https://doi.org/10.12957/redoc.2024.83226)
