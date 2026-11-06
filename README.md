@@ -12,6 +12,7 @@
 ---
 
 ## 🎓 Formação
+
 🎓 **Mestrado em Informática Aplicada (em andamento)** – UFRPE
 🎓 **MBA em Data Science, Analytics & BI** – Uninassau  
 🎓 **Sistemas de Informação** – UFRPE  
