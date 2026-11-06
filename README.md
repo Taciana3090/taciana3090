@@ -12,10 +12,11 @@
 ---
 
 ## 🎓 Formação
+🎓 **Mestrado em Informática Aplicada (em andamento)** – UFRPE
+🎓 **MBA em Data Science, Analytics & BI** – Uninassau  
 🎓 **Sistemas de Informação** – UFRPE  
-🎓 **Gestão de TI** – Estácio  
-🎓 **Pós em Ciência de Dados & IA e Cloud Computing** – Anhanguera  
-🎓 **MBA em Data Science, Analytics & BI (em andamento)** – Uninassau  
+🎓 **Pós em Ciência de Dados & IA e Cloud Computing** – Anhanguera 
+🎓 **Gestão de TI** – Estácio   
 
 ---
 
