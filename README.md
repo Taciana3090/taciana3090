@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Taciana Vasconcelos
 
-💻 Profissional de tecnologia apaixonada por **Data Science, Analytics, Engenharia de Dados e Inteligência Artificial**, buscando transformar dados em conhecimento e soluções inteligentes.
+Profissional de tecnologia apaixonada por **Data Science, Analytics, Engenharia de Dados e Inteligência Artificial**, buscando transformar dados em conhecimento e soluções inteligentes.
 
 ---
 
@@ -40,8 +40,8 @@
 
 ### ☁️ Cloud
 <div>
-  <img src="https://img.shields.io/badge/Google_Cloud-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
 
 ### 🗄️ Banco de Dados / Plataformas de Dados
@@ -87,8 +87,8 @@
 ## 🔧 GitHub Stats
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taciana3090&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Taciana3090&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=Taciana3090&show_icons=true&theme=dracula"/>
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Taciana3090&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
