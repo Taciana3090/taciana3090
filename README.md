@@ -17,7 +17,7 @@
 
 🎓 **MBA em Data Science, Analytics & BI** – Uninassau
 
-🎓 **Sistemas de Informação** – UFRPE
+🎓 **Bacharelado em Sistemas de Informação** – UFRPE
 
 🎓 **Pós em Ciência de Dados & IA e Cloud Computing** – Anhanguera
 
